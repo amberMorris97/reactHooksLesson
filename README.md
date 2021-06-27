@@ -1,6 +1,6 @@
 # reactHooksLesson
 
-### This repo was created to assist in learning React hooks.
+### This repo was created to assist with learning React hooks.
 
 1. Counter Button:
   *simple counter buttons to increment/decrement a value.*
