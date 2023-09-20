@@ -1,6 +1,6 @@
 # reactHooksLesson
 
-### This repo was created to assist with learning React hooks.
+### I created this repo to work through with my beginner React students.
 
 1. Counter Button:
   *your final product should be a counter with buttons that will increase and decrease the value displayed on the screen.*
